@@ -1,0 +1,8 @@
+# Avoid pushing library
+*.bnk
+*.ogg
+*.wav
+*.wem
+*.json
+*.txt
+*.xml
